@@ -1,0 +1,55 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+*.tmp
+
+# Quartus generated files
+db/
+incremental_db/
+output_files/
+ip/
+*.qdb
+*.qws
+*.qpf.rst
+*.rpt
+*.summary
+*.sopcinfo
+*.sld
+*.jdi
+*.smsgs
+*.rbd
+*.lso
+*.sof
+*.pof
+*.rbf
+*.jic
+*.hex
+
+# Simulation / ModelSim
+*.wlf
+*.vcd
+*.vpd
+transcript
+vsim.wlf
+modelsim.ini
+work/
+sim_build/
+build/
+
+# Build artifacts
+*.o
+*.a
+*.out
+*.elf
+*.bin
+*.log
+*.tmp
+*.cache
+*.bak
