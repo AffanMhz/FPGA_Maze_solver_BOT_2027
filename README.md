@@ -2,6 +2,8 @@
 
 > **"Learning While Competing in Agricultural Warehouse Navigation"**
 
+🌐 Website:** [Maze Solver](https://affanmhz.github.io/FPGA_Maze_solver_BOT_2027/) | **📧 Contact:** danishaffan687@gmail.com
+
 [![eYRC 2025-26](https://img.shields.io/badge/eYRC-2025--26-blue.svg)](https://www.e-yantra.org/)
 [![Theme](https://img.shields.io/badge/Theme-MazeSolver%20Bot-green.svg)](https://www.e-yantra.org/)
 [![Stage](https://img.shields.io/badge/Stage-1-orange.svg)](https://www.e-yantra.org/)
